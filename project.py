@@ -20,7 +20,7 @@ def main_window():
     win.geometry("500x370")
     win.resizable(False, False)
     win.config(bg="red")
-    win.title("Gaurav sony")
+    win.title("Nandini")
     
     # Label for "Incorrect Spelling"
     label1 = Label(win, text="Incorrect Spelling", font=("Time New Roman ", 25, "bold"), bg="green", fg="white" )
